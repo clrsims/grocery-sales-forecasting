@@ -23,12 +23,12 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
    git clone https://github.com/clrsims/grocery-sales-forecasting.git
    cd grocery-sales-forecasting
    
-2. ** Install dependencies
+2. **Install dependencies**
    
     ```bash
    pip install -r requirements.txt
 
-3. Download and prepare the dataset
+3. **Download and prepare the dataset**
 
    a.	Folder structure should look like:
 
@@ -44,6 +44,6 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
    ├── requirements.txt
    └── README.md
 
-4. Run the notebook
+4. **Run the notebook**
    ```bash
    jupyter notebooks
