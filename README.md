@@ -28,4 +28,23 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
     ```bash
    pip install -r requirements.txt
 
+3. Download and prepare the dataset
 
+   a.	Folder structure should look like:
+
+   ```bash
+      grocery-sales-forecasting/
+   ├── data/
+   │   ├── train.csv
+   │   ├── test.csv
+   │   ├── stores.csv
+   │   ├── holidays_events.csv
+   │   └── oil.csv
+   ├── forecasting_pipeline.py
+   ├── requirements.txt
+   └── README.md
+
+4. Run the notebookd
+   ```bash
+   cd path/to/grocery-sales-forecasting
+   jupyter notebooks
