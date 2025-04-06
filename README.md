@@ -4,4 +4,5 @@ Built an end‑to‑end time‑series pipeline on ≈ 125 M daily transact
 - Trained a CatBoost regressor with native categorical handling (store‑type, product family) and log‑transformed target; ranked top 10 % of 800 teams on the public leaderboard.
 - Implemented leakage‑safe splits, deterministic seeds, and null‑imputation rules, enabling fully reproducible results across GPU/CPU hardware.
 - Visualized model behavior—feature‑importance bars and RMSE‑by‑iteration plots—highlighting weekend demand spikes, holiday lift, and oil‑price sensitivity for business stakeholders.
- ![image](https://github.com/user-attachments/assets/b46b1275-41e1-470a-873a-c062fd4b0511)
+
+
