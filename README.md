@@ -17,10 +17,10 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
 
 ## Installation
 
-1. **Clone the repo:**
+1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/grocery-sales-forecasting.git
+   git clone https://github.com/clrsims/grocery-sales-forecasting.git
    cd grocery-sales-forecasting
    
 2. ** Install dependencies
@@ -46,5 +46,4 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
 
 4. Run the notebook
    ```bash
-   cd path/to/grocery-sales-forecasting
    jupyter notebooks
