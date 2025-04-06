@@ -44,7 +44,7 @@ The data used is from the **[Corporación Favorita Grocery Sales Forecasting](ht
    ├── requirements.txt
    └── README.md
 
-4. Run the notebookd
+4. Run the notebook
    ```bash
    cd path/to/grocery-sales-forecasting
    jupyter notebooks
